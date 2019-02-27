@@ -1,2 +1,0 @@
-# git
-Cách dùng github
